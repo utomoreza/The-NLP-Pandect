@@ -4,8 +4,6 @@
 This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Natural Language Processing that is available online.
 </p>
 
-<p align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/>
-
 > __Note__
 > Quick legend on available resource types:
 > 
